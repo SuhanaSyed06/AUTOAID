@@ -432,8 +432,9 @@ Example:
 
 ### Contributors
 
-* **Suhana Syed** — Full-Stack Development, AI Integration & System Design
-* Add other contributors here
+* **Suhana Syed & Neha Sumaya** — Backend Development,AI Integration
+* **Priya Mythili & Gowtham Parise** - Frontend Development
+* 
 
 ---
 
